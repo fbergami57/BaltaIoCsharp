@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Metodo e Funcao/1.0.0": {
+        "runtime": {
+          "Metodo e Funcao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metodo e Funcao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

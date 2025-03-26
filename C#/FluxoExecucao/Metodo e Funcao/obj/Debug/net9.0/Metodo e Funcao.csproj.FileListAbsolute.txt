@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\bin\Debug\net9.0\Metodo e Funcao.exe
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\bin\Debug\net9.0\Metodo e Funcao.deps.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\bin\Debug\net9.0\Metodo e Funcao.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\bin\Debug\net9.0\Metodo e Funcao.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\bin\Debug\net9.0\Metodo e Funcao.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\refint\Metodo e Funcao.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\Metodo e Funcao.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Metodo e Funcao\obj\Debug\net9.0\ref\Metodo e Funcao.dll

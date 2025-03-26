@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\bin\Debug\net9.0\DOWHILE.exe
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\bin\Debug\net9.0\DOWHILE.deps.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\bin\Debug\net9.0\DOWHILE.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\bin\Debug\net9.0\DOWHILE.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\bin\Debug\net9.0\DOWHILE.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\refint\DOWHILE.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\DOWHILE.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\DOWHILE\obj\Debug\net9.0\ref\DOWHILE.dll

@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll

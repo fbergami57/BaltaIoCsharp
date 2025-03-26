@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FluxoExecucao", "FluxoExecucao", "{7A10F281-9D23-4F32-B9EF-DE155D69B425}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBaltaIo", "FluxoExecucao\TesteBaltaIo\TesteBaltaIo.csproj", "{442449CB-E47C-4821-A137-F0D4614FE3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442449CB-E47C-4821-A137-F0D4614FE3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442449CB-E47C-4821-A137-F0D4614FE3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442449CB-E47C-4821-A137-F0D4614FE3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442449CB-E47C-4821-A137-F0D4614FE3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{442449CB-E47C-4821-A137-F0D4614FE3DD} = {7A10F281-9D23-4F32-B9EF-DE155D69B425}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34771617-66D1-434A-9022-8DD1B881BEED}
+	EndGlobalSection
+EndGlobal

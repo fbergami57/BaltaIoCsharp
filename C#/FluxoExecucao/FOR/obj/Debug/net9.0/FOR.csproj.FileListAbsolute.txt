@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\bin\Debug\net9.0\FOR.exe
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\bin\Debug\net9.0\FOR.deps.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\bin\Debug\net9.0\FOR.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\bin\Debug\net9.0\FOR.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\bin\Debug\net9.0\FOR.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\refint\FOR.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\FOR.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\FOR\obj\Debug\net9.0\ref\FOR.dll

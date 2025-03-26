@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Values Types References Types/1.0.0": {
+        "runtime": {
+          "Values Types References Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Values Types References Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\bin\Debug\net9.0\SWITCH.exe
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\bin\Debug\net9.0\SWITCH.deps.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\bin\Debug\net9.0\SWITCH.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\bin\Debug\net9.0\SWITCH.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\bin\Debug\net9.0\SWITCH.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\refint\SWITCH.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\SWITCH.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\SWITCH\obj\Debug\net9.0\ref\SWITCH.dll

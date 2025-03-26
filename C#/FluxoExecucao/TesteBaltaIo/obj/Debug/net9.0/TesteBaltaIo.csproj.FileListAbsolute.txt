@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\bin\Debug\net9.0\TesteBaltaIo.exe
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\bin\Debug\net9.0\TesteBaltaIo.deps.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\bin\Debug\net9.0\TesteBaltaIo.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\bin\Debug\net9.0\TesteBaltaIo.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\bin\Debug\net9.0\TesteBaltaIo.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\refint\TesteBaltaIo.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\TesteBaltaIo.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\TesteBaltaIo\obj\Debug\net9.0\ref\TesteBaltaIo.dll

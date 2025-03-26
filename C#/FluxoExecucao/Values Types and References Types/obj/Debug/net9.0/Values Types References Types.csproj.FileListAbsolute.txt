@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\bin\Debug\net9.0\Values Types References Types.exe
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\bin\Debug\net9.0\Values Types References Types.deps.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\bin\Debug\net9.0\Values Types References Types.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\bin\Debug\net9.0\Values Types References Types.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\bin\Debug\net9.0\Values Types References Types.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\refint\Values Types References Types.dll
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.pdb
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\Values Types References Types.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\FluxoExecucao\Values Types and References Types\obj\Debug\net9.0\ref\Values Types References Types.dll

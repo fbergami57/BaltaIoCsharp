@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\bin\Debug\net9.0\StopWatch.exe
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\bin\Debug\net9.0\StopWatch.deps.json
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\bin\Debug\net9.0\StopWatch.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\bin\Debug\net9.0\StopWatch.dll
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\bin\Debug\net9.0\StopWatch.pdb
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.dll
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\refint\StopWatch.dll
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.pdb
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\StopWatch.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\StopWatch\StopWatch\obj\Debug\net9.0\ref\StopWatch.dll

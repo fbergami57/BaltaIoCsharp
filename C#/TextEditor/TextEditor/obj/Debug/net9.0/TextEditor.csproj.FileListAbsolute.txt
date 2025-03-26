@@ -1,0 +1,14 @@
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\bin\Debug\net9.0\TextEditor.exe
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\bin\Debug\net9.0\TextEditor.deps.json
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\bin\Debug\net9.0\TextEditor.runtimeconfig.json
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\bin\Debug\net9.0\TextEditor.dll
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\bin\Debug\net9.0\TextEditor.pdb
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfo.cs
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.dll
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\refint\TextEditor.dll
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.pdb
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
+D:\Cursos\BaltaIO\C#\TextEditor\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll
