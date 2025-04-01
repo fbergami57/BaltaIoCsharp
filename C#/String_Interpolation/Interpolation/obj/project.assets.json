@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\String.csproj",
-      "projectName": "String",
-      "projectPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\String.csproj",
+      "projectUniqueName": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String_Interpolation\\Interpolation\\Interpolation.csproj",
+      "projectName": "Interpolation",
+      "projectPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String_Interpolation\\Interpolation\\Interpolation.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\obj\\",
+      "outputPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String_Interpolation\\Interpolation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

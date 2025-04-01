@@ -1,0 +1,15 @@
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\bin\Debug\net9.0\Interpolation.exe
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\bin\Debug\net9.0\Interpolation.deps.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\bin\Debug\net9.0\Interpolation.runtimeconfig.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\bin\Debug\net9.0\Interpolation.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\bin\Debug\net9.0\Interpolation.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.AssemblyInfo.cs
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.sourcelink.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\refint\Interpolation.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\Interpolation.genruntimeconfig.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String_Interpolation\Interpolation\obj\Debug\net9.0\ref\Interpolation.dll
