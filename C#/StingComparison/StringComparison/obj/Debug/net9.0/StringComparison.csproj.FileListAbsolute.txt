@@ -1,0 +1,15 @@
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\bin\Debug\net9.0\StringComparison.exe
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\bin\Debug\net9.0\StringComparison.deps.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\bin\Debug\net9.0\StringComparison.runtimeconfig.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\bin\Debug\net9.0\StringComparison.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\bin\Debug\net9.0\StringComparison.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.AssemblyInfo.cs
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.sourcelink.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\refint\StringComparison.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\StringComparison.genruntimeconfig.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StingComparison\StringComparison\obj\Debug\net9.0\ref\StringComparison.dll
