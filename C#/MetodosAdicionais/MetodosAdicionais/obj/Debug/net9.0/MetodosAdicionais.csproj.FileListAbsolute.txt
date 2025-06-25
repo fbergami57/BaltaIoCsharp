@@ -1,0 +1,15 @@
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\bin\Debug\net9.0\MetodosAdicionais.exe
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\bin\Debug\net9.0\MetodosAdicionais.deps.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\bin\Debug\net9.0\MetodosAdicionais.runtimeconfig.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\bin\Debug\net9.0\MetodosAdicionais.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\bin\Debug\net9.0\MetodosAdicionais.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.AssemblyInfo.cs
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.sourcelink.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\refint\MetodosAdicionais.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\MetodosAdicionais.genruntimeconfig.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\MetodosAdicionais\MetodosAdicionais\obj\Debug\net9.0\ref\MetodosAdicionais.dll
