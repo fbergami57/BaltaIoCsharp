@@ -1,0 +1,15 @@
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\bin\Debug\net9.0\StartsWithEndsWith.exe
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\bin\Debug\net9.0\StartsWithEndsWith.deps.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\bin\Debug\net9.0\StartsWithEndsWith.runtimeconfig.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\bin\Debug\net9.0\StartsWithEndsWith.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\bin\Debug\net9.0\StartsWithEndsWith.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.AssemblyInfoInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.AssemblyInfo.cs
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.csproj.CoreCompileInputs.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.sourcelink.json
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\refint\StartsWithEndsWith.dll
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.pdb
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\StartsWithEndsWith.genruntimeconfig.cache
+D:\Cursos\BaltaIO\BaltaIoCsharp\C#\StringStartWithEndsWith\StartsWithEndsWith\obj\Debug\net9.0\ref\StartsWithEndsWith.dll

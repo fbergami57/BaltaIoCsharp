@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\String.csproj": {}
+    "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\Equals\\Equals\\Equals.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\String.csproj": {
+    "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\Equals\\Equals\\Equals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\String.csproj",
-        "projectName": "String",
-        "projectPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\String.csproj",
+        "projectUniqueName": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\Equals\\Equals\\Equals.csproj",
+        "projectName": "Equals",
+        "projectPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\Equals\\Equals\\Equals.csproj",
         "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\String\\String\\obj\\",
+        "outputPath": "D:\\Cursos\\BaltaIO\\BaltaIoCsharp\\C#\\Equals\\Equals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
