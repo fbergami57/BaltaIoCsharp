@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AP3JHNofXX8=",
+  "dgSpecHash": "ZUpBZpXDTy8=",
   "success": true,
   "projectFilePath": "D:\\C#\\BaltaIoCsharp\\C#\\String\\String\\String.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\C#\\BaltaIoCsharp\\C#\\String\\String\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
