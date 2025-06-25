@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ZUpBZpXDTy8=",
+=======
+  "dgSpecHash": "MnqYtkK4VN8=",
+>>>>>>> ed06c34f4a0bd92dee86b393a3316a71ea560b10
   "success": true,
   "projectFilePath": "D:\\C#\\BaltaIoCsharp\\C#\\String\\String\\String.csproj",
   "expectedPackageFiles": [],
