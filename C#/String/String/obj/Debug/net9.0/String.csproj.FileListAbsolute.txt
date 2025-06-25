@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+D:\C#\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.exe
+D:\C#\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.deps.json
+D:\C#\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.runtimeconfig.json
+D:\C#\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.dll
+D:\C#\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.pdb
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.AssemblyInfoInputs.cache
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.AssemblyInfo.cs
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.csproj.CoreCompileInputs.cache
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.sourcelink.json
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.dll
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\refint\String.dll
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.pdb
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.genruntimeconfig.cache
+D:\C#\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\ref\String.dll
+=======
 D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.exe
 D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.deps.json
 D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\bin\Debug\net9.0\String.runtimeconfig.json
@@ -13,3 +30,4 @@ D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\refint\String.
 D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.pdb
 D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\String.genruntimeconfig.cache
 D:\Cursos\BaltaIO\BaltaIoCsharp\C#\String\String\obj\Debug\net9.0\ref\String.dll
+>>>>>>> afe19366488ceeb6e560bb4b02fc9b7a458c0369

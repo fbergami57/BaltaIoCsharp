@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAdicionais", "MetodosAdicionais\MetodosAdicionais.csproj", "{258E76FF-DF49-138C-D42F-11749A56AE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258E76FF-DF49-138C-D42F-11749A56AE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258E76FF-DF49-138C-D42F-11749A56AE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258E76FF-DF49-138C-D42F-11749A56AE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258E76FF-DF49-138C-D42F-11749A56AE69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA30F9D-14A7-4444-87C8-BFD148D3A0DD}
+	EndGlobalSection
+EndGlobal
